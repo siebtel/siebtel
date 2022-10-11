@@ -1,7 +1,7 @@
 
 ### Hello world! Olá mundo! Salut le monde 👋🤓
 ***
-I'm Igor, brazilian computer science student and enthusiast - I like pretty much something about everything 😅 - I love to help, I'm better working with a team than alone, get motivated more this way. Even when I'm playing.
+I'm Igor, brazilian computer science student and enthusiast - I like pretty much something about everything 😅 - I love to help, I'm better working with a team than alone, get motivated more this way. Being part of something bigger than just me is awesome!
 
 Je parle un peu de français aussi, ce n'est pas incroyable, mais je suis déjà allé en France et y habité avec une famille, donc, je peux vivre sans problème dans un pays francophone 
 
