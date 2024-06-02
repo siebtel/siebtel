@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [ClassApp](https://www.classapp.com.br) and finishing my BSc degree in Computer Science at Rio de Janeiro State University (UERJ).
+- 🔭 I’m currently working on [isaac](https://isaac.com.br/) and finishing my BSc degree in Computer Science at Rio de Janeiro State University (UERJ).
 - 🌱 I’m currently learning:
   - 日本語
   - How to make good documentation with Jekyll by following the advices of [Daniele Procida](https://www.linkedin.com/in/danieleprocida/)
